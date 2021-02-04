@@ -19,7 +19,7 @@ if( !extension_loaded('mysql') ){
 }
 ```
 
-Kaynak Kod: https://www.phpclasses.org/package/9199-PHP-Replace-mysql-functions-using-the-mysqli-extension.html
+Kaynak Kod: https://www.phpclasses.org/mydql2i
 
 
 
@@ -44,4 +44,4 @@ if( !extension_loaded('mysql') ){
 }
 ```
 
-Original Source Code: https://www.phpclasses.org/package/9199-PHP-Replace-mysql-functions-using-the-mysqli-extension.html
+Original Source Code: https://www.phpclasses.org/mydql2i
